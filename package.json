@@ -1,0 +1,20 @@
+{
+  "name": "cypressstudy",
+  "version": "1.0.0",
+  "description": "First test with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "test",
+    "automation"
+  ],
+  "author": "Viktor Olesnevych",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0",
+    "prettier": "^2.0.5"
+  }
+}
